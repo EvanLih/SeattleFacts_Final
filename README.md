@@ -17,4 +17,4 @@ A few examples of the data analysis below:
 ![test](https://github.com/EvanLih/SeattleFacts_Final/blob/master/Images/image28.jpeg)
 
 ## Average Income for West Coast Metropolitan Areas, 2007-2017
-![test](https://github.com/EvanLih/SeattleFacts_Final/blob/master/Images/image30.jpeg)
+![test](https://github.com/EvanLih/SeattleFacts_Final/blob/master/Images/image30.png)
