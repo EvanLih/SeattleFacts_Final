@@ -1,4 +1,4 @@
-![test](https://github.com/EvanLih/SeattleFacts_Final/blob/master/Images/image1.png)
+![test](https://github.com/EvanLih/SeattleFacts_Final/blob/master/Images/image2.png)
 # Snapshot analysis of City of Seattle. Conducted for the Mayor's Office. 
 This repository houses a data snapshot of the City of Seattle, from the American Community Survey. Additional comparisons to other cities are included. 
 
